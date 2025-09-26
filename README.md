@@ -2,6 +2,7 @@
 
 A responsive and interactive **Event Calendar web app** designed using **HTML5, CSS3, JavaScript, jQuery, and Bootstrap 5**.  
 The calendar allows users to view, add, and manage events in a visually structured way, showcasing front-end UI/UX development skills.
+link- https://sharonc-droid.github.io/Event_Calender_p2/
 
 ---
 
